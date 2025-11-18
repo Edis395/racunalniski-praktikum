@@ -1,0 +1,9 @@
+\usepackage{amsthm}
+\theoremstyle{plain}
+\newtheorem{izrek}{Izrek}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+
+\theoremstyle{remark}
+\newtheorem{opomba}{Opomba}
